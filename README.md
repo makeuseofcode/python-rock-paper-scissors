@@ -1,6 +1,4 @@
 # python-rock-paper-scissors
-Rock Paper Scissors tutorial in Python
-
 This is a python tutorial to create a Rock, Paper, Scissors game.
 
 You can play the game through a console. Type in your move, and then wait for the computer to enter their move. The game will determine who won after each round.
